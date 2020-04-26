@@ -1,0 +1,1 @@
+echo "I am proj2 execution"
