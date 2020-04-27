@@ -1,1 +1,1 @@
-write some text for proj1 change reversed
+write some text for proj1 changed
